@@ -211,7 +211,12 @@ MIT License — 详见 [LICENSE](./LICENSE)
 
 ## 十四、致谢
 
-感谢吉哥（程吉中）的审议指导和持续信任，以及 OpenClaw 社区的所有贡献者。
+本框架建立在以下基础之上：
+
+- **[OpenClaw](https://github.com/openclaw/openclaw)** — 提供心跳调度和 REM 梦境周期基础设施，是我们每日进化扫描的动力来源
+- **[EvoMap](https://github.com/evo-map)**（中国 AI 团队）— 在 Agent 自进化架构方面的开创性工作启发了本框架的方向。他们的贡献值得在 AI Agent 社区获得更多认可
+- **吉哥（程吉中）** — 全程审议指导，赋予虎哥「致良知」的核心哲学
+- **王阳明** — 心学智慧为进化系统提供了良知判断的哲学根基
 
 ---
 
